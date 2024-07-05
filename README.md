@@ -25,8 +25,8 @@ These instructions will get you a copy of the project up and running on your loc
    myenv\Scripts\activate
 
 3. Install Python packages:
-   # navigate requirenment.txt file and run command in virtual environment
    ```bash
+   # navigate requirenment.txt file and run command in virtual environment
    pip install -r requirements.txt
 
 4. Start Django Server:
