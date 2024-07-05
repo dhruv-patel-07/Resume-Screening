@@ -34,14 +34,10 @@ These instructions will get you a copy of the project up and running on your loc
    #run following command in ResumeScrapin/
    python manage.py runserver
    
-   
-
-   
-   
 6. Clone Project:
    ```bash
    git clone https://github.com/dhruv-patel-07/Resume-Screening.git
-4. 
+   
 
    
    
