@@ -1,7 +1,7 @@
 # Resume-Screening
 
 
-This project aims to automate the screening process of resumes using [machine learning algorithms]. It helps in efficiently filtering resumes.
+This project aims to automate the screening process of resumes using machine learning(NLP). It helps in efficiently filtering resumes.
 
 ## Features
 
