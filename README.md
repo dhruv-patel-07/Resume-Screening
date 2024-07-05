@@ -38,5 +38,5 @@ These instructions will get you a copy of the project up and running on your loc
    ```bash
    #run following command in ResumeScrapin/
    python manage.py runserver
-
+## Project Image
 ![Project Image](https://github.com/dhruv-patel-07/Resume-Screening/blob/main/Resume%20Screnning/photos/project_imag.png)
