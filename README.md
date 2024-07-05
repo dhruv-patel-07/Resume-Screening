@@ -23,20 +23,21 @@ These instructions will get you a copy of the project up and running on your loc
 2. Activate Virtual Environment:
    ```bash
    myenv\Scripts\activate
+   
+3. Clone Project:
+   ```bash
+   git clone https://github.com/dhruv-patel-07/Resume-Screening.git
+   
 
-3. Install Python packages:
+4. Install Python packages:
    ```bash
    # navigate requirenment.txt file and run command in virtual environment
    pip install -r requirements.txt
 
-4. Start Django Server:
+5. Start Django Server:
    ```bash
    #run following command in ResumeScrapin/
    python manage.py runserver
-   
-6. Clone Project:
-   ```bash
-   git clone https://github.com/dhruv-patel-07/Resume-Screening.git
    
 
    
